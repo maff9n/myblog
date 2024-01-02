@@ -1,0 +1,35 @@
+baseURL = 'https://www.maff9n.de/'
+title = "Marvin's Blog"
+languageCode = 'en-us'
+
+[params]
+author = "Marvin Mann"
+avatar = "portrait.jpeg"
+description = "I am an experienced software developer with a strong professional focus on continuous integration and functional programming."
+
+[[menu.main]]
+  identifier = "it"
+  name = "IT"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "contact"
+  name = "Contact"
+  url = "/contact/"
+  weight = 2
+
+[[params.social]]
+  icon = "linkedin"
+  name = "My LinkedIn"
+  url = "https://de.linkedin.com/in/marvin-mann-7b83b51a2"
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/maff9n"
+
+[[params.social]]
+icon = "twitter"
+name = "My Twitter"
+url = "https://twitter.com/maff9n"

@@ -1,6 +1,7 @@
 baseURL = 'https://www.maff9n.de/'
 title = "Marvin's Blog"
 languageCode = 'en-us'
+theme = 'm10c'
 
 [params]
 author = "Marvin Mann"
